@@ -1,4 +1,4 @@
-💫 About Me:
+💫 About Me: 
 About Me :
 <br><br>🛠 **I’m currently working on**  <br>Sharpening my Data Structures & Algorithms (DSA) skills and building projects using React and Express to solidify my full stack development expertise.<br><br>🤝 **I’m looking to collaborate on**  <br>Full stack web applications and data-driven projects where I can apply my growing skills in web dev and analytics.<br><br>🌱 **I’m looking for help with**  <br>Mastering advanced DSA concepts and real-world applications of data science using scikit-learn.<br><br>🌱 **I’m currently learning**  <br>React, Express, and scikit-learn — focusing on becoming proficient in both full stack development and data analytics.<br><br>💬 **Ask me about**  <br>DSA basics, full stack tools like React or Express, and getting started with machine learning using Python.<br><br>⚡ **Fun fact**  <br>I once scaled a travel startup during my undergrad and now mentor students in programming across India.<br><br>
 
